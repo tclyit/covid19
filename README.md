@@ -3,17 +3,20 @@
 ## How to use
 
 Download the example [or clone the repo](https://github.com/tclyit/covid19.git):
+```sh
+git clone https://github.com/tclyit/covid19.git
+```
 
 ## What is in this project?
 ```
 - React Latest
 - React Redux
-    - actions
-    - store
-    - reducers
+    . actions
+    . store
+    . reducers
 - React Hooks
 - Theme:
-    - React Material UI
+    . React Material UI
 ```
 
 Install it and run:
