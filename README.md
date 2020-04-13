@@ -1,12 +1,19 @@
-# Create React App example
+# React App uses Material UI
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download the example [or clone the repo](https://github.com/tclyit/covid19.git):
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
+## What is in this project?
+```
+- React Latest
+- React Redux
+    - actions
+    - store
+    - reducers
+- React Hooks
+- Theme:
+    - React Material UI
 ```
 
 Install it and run:
@@ -14,12 +21,14 @@ Install it and run:
 ```sh
 npm install
 npm start
+// for production
+npm build
 ```
 
-or:
+Or:
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/create-react-app)
+Try to get on [Material UI Link](https://github.com/mui-org/material-ui)
 
-## The idea behind the example
+## The idea behind this project is to have React latest work with Material UI
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
+Demo [Covid19 Information Scraping](http://covid19.dockh.com).
