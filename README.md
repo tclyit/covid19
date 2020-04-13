@@ -34,4 +34,4 @@ Try to get on [Material UI Link](https://github.com/mui-org/material-ui)
 
 ## The idea behind this project is to have React latest work with Material UI
 
-Demo [Covid19 Information Scraping](http://covid19.dockh.com){:target="_blank"}.
+Demo link [Covid19 Information Scraping](http://covid19.dockh.com)
