@@ -17,6 +17,10 @@ git clone https://github.com/tclyit/covid19.git
 - React Hooks
 - Theme:
     . React Material UI
+- Mapbox with public token gnerated under my specific user
+- API:
+    . nodejs scraping data
+    . map data from other api
 ```
 
 Install it and run:
